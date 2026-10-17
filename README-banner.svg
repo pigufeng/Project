@@ -1,0 +1,31 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">National Debt Statistics Investigation</title>
+  <desc id="desc">A glowing finance-themed banner with a rising data line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172c2b"/>
+      <stop offset="0.55" stop-color="#1d7771"/>
+      <stop offset="1" stop-color="#202521"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#c8ef5a"/>
+      <stop offset="1" stop-color="#f0c75e"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#d8f2d7" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1400" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M0 285 C160 250 220 292 350 238 S585 260 700 193 S920 220 1040 132 S1240 145 1400 66" fill="none" stroke="#c8ef5a" stroke-opacity=".12" stroke-width="26"/>
+  <path d="M0 285 C160 250 220 292 350 238 S585 260 700 193 S920 220 1040 132 S1240 145 1400 66" fill="none" stroke="url(#line)" stroke-width="4" filter="url(#glow)"/>
+  <circle cx="1040" cy="132" r="7" fill="#ef765c" filter="url(#glow)"/>
+  <text x="72" y="88" fill="#c8ef5a" font-family="monospace" font-size="16" letter-spacing="5">FINANCE × STATISTICS × HISTORY</text>
+  <text x="72" y="182" fill="#f3f0e9" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">NATIONAL DEBT</text>
+  <text x="76" y="235" fill="#f0c75e" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="5">STATISTICS INVESTIGATION</text>
+  <text x="76" y="302" fill="#d8f2d7" fill-opacity=".75" font-family="monospace" font-size="14" letter-spacing="2">PUBLIC CREDIT / ECONOMIC SURVIVAL / QUANTITATIVE CURIOSITY</text>
+</svg>

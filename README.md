@@ -26,16 +26,3 @@ These references led me to read about Hamilton's **First Report on the Public Cr
 - Risk thresholds and tail probabilities
 - Correlation, regression, and explained variance
 
-## Run the project
-
-Open `index.html` in a browser. No build step or dependencies are required.
-
-The reusable Python calculations are in `statistics_lab.py` and can be run with:
-
-```bash
-python statistics_lab.py
-```
-
-The values are illustrative and designed for learning. Replace the arrays in `app.js` or `statistics_lab.py` with a documented real dataset when extending the investigation.
-
-

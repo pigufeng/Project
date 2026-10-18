@@ -13,7 +13,7 @@ I am a student who is rarely satisfied with accepting an explanation at face val
 - [Project Goals](#project-goals)
 - [Topics covered](#topics-covered)
 
-## 🎯 Project Goals
+## Project Goals
 - **Investigate** the dynamics of national debt.
 - **Develop** fundamental quantitative and statistical skills.
 - **Demonstrate** my passion for cross-disciplinary economic research.

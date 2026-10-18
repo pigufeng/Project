@@ -1,6 +1,6 @@
 <svg width="1400" height="360" viewBox="0 0 1400 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">National Debt Statistics Investigation</title>
-  <desc id="desc">A calm editorial banner about national debt, public credit, and statistics.</desc>
+  <desc id="desc">A calm editorial banner about national debt, public credit, and statistics with an animated trend line.</desc>
   <defs>
     <pattern id="paper" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M48 0H0V48" fill="none" stroke="#202521" stroke-opacity=".07"/>
@@ -20,10 +20,16 @@
   <g clip-path="url(#chartClip)">
     <path d="M790 92H1322M790 150H1322M790 208H1322M790 266H1322" stroke="#f3f0e9" stroke-opacity=".12"/>
     <path d="M815 252 L900 238 L980 246 L1060 194 L1145 207 L1225 124 L1305 92" fill="none" stroke="#c8ef5a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M815 252 L900 238 L980 246 L1060 194 L1145 207 L1225 124 L1305 92" fill="none" stroke="#f0c75e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="620" stroke-dashoffset="620">
+      <animate attributeName="stroke-dashoffset" from="620" to="0" dur="3s" repeatCount="indefinite"/>
+    </path>
     <path d="M815 252 L900 238 L980 246 L1060 194 L1145 207 L1225 124 L1305 92 L1305 316 L815 316Z" fill="#1d7771" fill-opacity=".28"/>
     <line x1="790" y1="150" x2="1322" y2="150" stroke="#ef765c" stroke-width="2" stroke-dasharray="8 8"/>
+    <circle r="7" fill="#ef765c">
+      <animateMotion dur="3s" repeatCount="indefinite" path="M815 252 L900 238 L980 246 L1060 194 L1145 207 L1225 124 L1305 92"/>
+    </circle>
   </g>
   <text x="814" y="75" fill="#c8ef5a" font-family="monospace" font-size="12" letter-spacing="2">DEBT / GDP</text>
-  <text x="1265" y="75" fill="#f3f0e9" fill-opacity=".65" font-family="monospace" font-size="12">2010—2024</text>
+  <text x="1295" y="75" text-anchor="end" fill="#f3f0e9" fill-opacity=".8" font-family="monospace" font-size="12">2010-2024</text>
   <text x="814" y="343" fill="#69716d" font-family="monospace" font-size="11" letter-spacing="1">OBSERVE / QUESTION / MEASURE</text>
 </svg>

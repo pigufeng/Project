@@ -12,10 +12,18 @@
   <rect x="0" y="0" width="17" height="360" fill="#ef765c"/>
   <line x1="72" y1="42" x2="700" y2="42" stroke="#1d7771" stroke-width="3"/>
   <text x="72" y="82" fill="#1d7771" font-family="monospace" font-size="15" letter-spacing="4">FINANCE / STATISTICS / HISTORY</text>
-  <text x="72" y="166" fill="#202521" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">NATIONAL DEBT</text>
-  <text x="75" y="216" fill="#1d7771" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="5">STATISTICS LAB</text>
-  <text x="76" y="278" fill="#69716d" font-family="monospace" font-size="14" letter-spacing="1">PUBLIC CREDIT / ECONOMIC SURVIVAL</text>
-  <text x="76" y="304" fill="#69716d" font-family="monospace" font-size="14" letter-spacing="1">A STUDENT INVESTIGATION</text>
+  <text x="72" y="166" fill="#202521" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" letter-spacing="-1">NATIONAL DEBT</text>
+  <text x="75" y="216" fill="#1d7771" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" letter-spacing="4">STATISTICS LAB</text>
+  <text x="76" y="249" fill="#69716d" font-family="monospace" font-size="10" letter-spacing="2">MONEY SOURCES</text>
+  <rect x="76" y="260" width="132" height="30" rx="4" fill="#1d7771"/>
+  <rect x="218" y="260" width="132" height="30" rx="4" fill="#202521"/>
+  <rect x="360" y="260" width="132" height="30" rx="4" fill="#ef765c"/>
+  <rect x="502" y="260" width="172" height="30" rx="4" fill="#f0c75e"/>
+  <text x="142" y="280" text-anchor="middle" fill="#f3f0e9" font-family="monospace" font-size="10" letter-spacing="1">TAX REVENUE</text>
+  <text x="284" y="280" text-anchor="middle" fill="#f3f0e9" font-family="monospace" font-size="10" letter-spacing="1">BONDS</text>
+  <text x="426" y="280" text-anchor="middle" fill="#f3f0e9" font-family="monospace" font-size="10" letter-spacing="1">CUSTOMS</text>
+  <text x="588" y="280" text-anchor="middle" fill="#202521" font-family="monospace" font-size="10" letter-spacing="1">PUBLIC CREDIT</text>
+  <text x="76" y="316" fill="#69716d" font-family="monospace" font-size="11" letter-spacing="1">MEAN μ  /  SPREAD σ  /  SAMPLE n</text>
   <rect x="790" y="42" width="532" height="274" rx="8" fill="#202521"/>
   <g clip-path="url(#chartClip)">
     <path d="M790 92H1322M790 150H1322M790 208H1322M790 266H1322" stroke="#f3f0e9" stroke-opacity=".12"/>
@@ -29,7 +37,8 @@
       <animateMotion dur="3s" repeatCount="indefinite" path="M815 252 L900 238 L980 246 L1060 194 L1145 207 L1225 124 L1305 92"/>
     </circle>
   </g>
-  <text x="814" y="75" fill="#c8ef5a" font-family="monospace" font-size="12" letter-spacing="2">DEBT / GDP</text>
+  <text x="814" y="75" fill="#c8ef5a" font-family="monospace" font-size="12" letter-spacing="2">ILLUSTRATIVE DEBT / GDP</text>
   <text x="1295" y="75" text-anchor="end" fill="#f3f0e9" fill-opacity=".8" font-family="monospace" font-size="12">2010-2024</text>
+  <text x="1110" y="143" fill="#ef765c" font-family="monospace" font-size="10" letter-spacing="1">REFERENCE LEVEL</text>
   <text x="814" y="343" fill="#69716d" font-family="monospace" font-size="11" letter-spacing="1">OBSERVE / QUESTION / MEASURE</text>
 </svg>

@@ -6,26 +6,29 @@
 > **Finance × Statistics × History**  
 > Exploring how data can explain the financial choices of a young nation.
 
-As a student, I have always been curious in a hands-on way: I would take my toys apart to understand what they were made of and how they worked. After watching the musical *Hamilton*, I began to apply that same curiosity to the early American financial system. I wanted to understand how the United States could survive the financial pressure of war, large debts, and fragile government finances after independence. Hamilton's financial plan made me curious about how public credit and national debt could help a young country build confidence and remain economically stable. I chose this topic to connect that historical question with my growing interest in finance, statistics, and quantitative analysis.
+I am a student who is rarely satisfied with accepting an explanation at face value. When I encounter a question or a problem, I want to examine its roots, understand the forces behind it, and look for evidence-based answers. When I watched the musical *Hamilton* in Form 3, I became curious about the financial system Hamilton helped shape after American independence. I began asking how a country weakened by war, large debts, and fragile public finances could remain economically stable. Could national debt, when managed with credibility and purpose, help a country survive a crisis or influence wider economic and financial development? Those questions led me to this project and strengthened my interest in finance as a future field of study. Statistics is the tool that can help me test ideas, interpret evidence, and develop that curiosity into a more rigorous understanding of the world.
 
-### 🎯 Project Goals
+## Contents
+
+- [Project Goals](#project-goals)
+- [Topics covered](#topics-covered)
+
+## 🎯 Project Goals
 - **Investigate** the dynamics of national debt.
 - **Develop** fundamental quantitative and statistical skills.
 - **Demonstrate** my passion for cross-disciplinary economic research.
 
 ---
 
-## 📐 IAL Statistics 1 techniques I may use
+## Topics covered
 
-To examine national debt, I may apply introductory statistical techniques such as:
+The project may use these Statistics 1 and quantitative-finance techniques:
 
-- **Data presentation:** frequency tables, grouped data, histograms, and cumulative frequency
-- **Location:** mean, median, mode, quartiles, and percentiles
-- **Dispersion:** range, interquartile range, variance, and standard deviation
-- **Probability:** sample spaces, conditional probability, and expected outcomes
-- **Random variables:** discrete probability distributions and expectation
-- **Distribution and estimation:** standard normal values, z-scores, and linear interpolation
-- **Relationships:** correlation, scatter diagrams, and simple linear regression
+- **Descriptive statistics:** mean, median, quartiles, variance, and standard deviation
+- **Data distributions:** grouped data, frequency tables, histograms, and skewness
+- **Probability:** discrete random variables, standard normal distribution, and z-scores
+- **Estimation:** linear interpolation between known data points
+- **Relationships and risk:** correlation, regression, and threshold exceedance
 
-These techniques can help me compare typical debt levels, measure financial uncertainty, identify unusual years, and examine whether debt appears to be related to economic growth. I will use them as tools for investigation, while remembering that statistical association does not by itself prove causation.
+Together, these methods can show typical debt levels, financial uncertainty, unusual years, and possible relationships with economic growth.
 
